@@ -4,7 +4,7 @@ Python practice assignment for **UCS420 / UCC304 (Cognitive Computing)**.
 
 ## Contents
 
-`1024160019_UCS420_CC.ipynb` — a Jupyter notebook covering 16 core Python topics, each with a short demo followed by a solved assignment question:
+`1024160019_UCS420_CC.ipynb` - the content covered in the assignments are as follows:
  1. Basic Syntax
  2. lists, tuples, random numbers, sets, and dictionaries
 
