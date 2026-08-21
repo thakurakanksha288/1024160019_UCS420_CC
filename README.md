@@ -5,9 +5,10 @@ Python practice assignment for **UCS420 / UCC304 (Cognitive Computing)**.
 ## Contents
 
 `1024160019_UCS420_CC.ipynb` - the content covered in the assignments are as follows:
- 1. Basic Syntax
- 2. lists, tuples, random numbers, sets, and dictionaries
+1. Basic Syntax
+2. lists, tuples, random numbers, sets, and dictionaries
 3. Pandas - dataframes and working with csv files
+4. Pandas -Pandas-based FAQ search system that scores keyword queries, filters by category, resolves ties, and manages CSV data persistence(Nova -2.0)
 ## How to Run
 
 Open `1024160019_UCS420_CC.ipynb` in Jupyter Notebook, JupyterLab, VS Code, or Google Colab, and run the cells in order. Some cells prompt for input via `input()`.
